@@ -1,10 +1,15 @@
 ![This is an image](https://avatars.githubusercontent.com/u/51368258?s=400&u=a22975ac64d1f5cf9ec0079e25fbe2b86b40093f&v=4.jpg)
 
-# Dishant Fapot _[(LinkedIn)](https://www.linkedin.com/in/dishantfapot/)_
+# Dishant Fapot
+
+## CONTACT
+- 443 501 6659
+- _[LinkedIn](https://www.linkedin.com/in/dishantfapot/)_
+- _dishantfapot@gmail.com_
 
 
 
-## Education
+## EDUCATION
 
 * University of Maryland - Baltimore County (UMBC); 2021 to 2023 
   * **M.P.S. in Data Science** 
@@ -21,7 +26,7 @@
 * Dedicated to meeting deadlines and the needs of the organization
 
 
-## Work Experience
+## WORK EXPERIENCE
 * **Associate Software Developer**, Softobiz Technologies Pvt Ltd., Mohali, India  
   *	Responsible for creating graphQL & REST APIs using NodeJS, TypeOrm, SQL Server and Typescript. 
   *	Created modules like session & login modules of a web application using microservice architecture.
