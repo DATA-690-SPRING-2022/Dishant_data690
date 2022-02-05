@@ -28,14 +28,14 @@ _I want to be a successful Data Scientist and start my own organization in the f
 
 
 ## WORK EXPERIENCE
-* **Associate Software Developer**, Softobiz Technologies Pvt Ltd., Mohali, India  
+* **Associate Software Developer**, Softobiz Technologies Pvt Ltd., Mohali, India  ; Nov 2020 - Aug 2021
   *	Responsible for creating graphQL & REST APIs using NodeJS, TypeOrm, SQL Server and Typescript. 
   *	Created modules like session & login modules of a web application using microservice architecture.
   *	Trained and mentored a new team member for smooth on-boarding and replacement.
   *	Communicated effectively with supervisors regarding customer/client issues
   *	Participated in cultural activities and training sessions designed to foster rapport among colleagues. 
 
-* **Data Analyst Intern**, Cloudstrats Technologies Private Limited, Mumbai, India        
+* **Data Analyst Intern**, Cloudstrats Technologies Private Limited, Mumbai, India      ; Nov 2020 - Apr 2021  
   *	Manifested strong multitasking skills by working part time with this company along with a full-time job at other company
   *	Worked on the technologies like Office 365, Tableau and azure Machine Learning.
   *	Handled internal projects by initiating Data Pre-Processing techniques and Visualizing Data with Tableau and reporting the same to Sr. Data Analyst.
