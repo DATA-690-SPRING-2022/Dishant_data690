@@ -52,6 +52,9 @@ Manufacturing is a huge deal when it comes to development. we will just see how 
 ![](https://github.com/DISHANTJOSHI1/dishant_data690/blob/2dcd8e5f61b95d5d2452607558b988a408b995b6/world_Development_Explorer/deathCausePie.png)
 Russia and China which have high GDP also have high death by non communal diseases with overall 15.3% percentage each when compare to other given countries. Inda, Pakistan and South Africa have lowest death by non communicable diseases.
 
+![](https://github.com/DISHANTJOSHI1/dishant_data690/blob/9b7e77de721ff0d50d722bb872121bafd4c362f4/individual_project/SuciedeMortalityTrend.png)
+Mentol health should be given as importance as physical health. If one keeps avoiding mentol health it may lead to serious damage. Above trend plot shows more people in Russia are facing mentol trauma. This might be beacause of authoritarian government. Whereas in a country like South Africa lack of basic necessity might be the reason. 
+
 ![](https://github.com/DISHANTJOSHI1/dishant_data690/blob/2dcd8e5f61b95d5d2452607558b988a408b995b6/world_Development_Explorer/lifeExpectancyTrend.png)
 Above trand shows Life expectancy at birth which means  the overall mortality level of a population. It briefs the mortality pattern that prevails across all age groups - children and adolescents, adults and the elderly. From our plot we see china has highest life expectency and least for South africa. Here we can conclude if gdp per capita is more life expectency can increase as people can more easily can afford health services. In previous graph results where non communal disease deaths were high in china and russia might be in high age group people (75+ age).
 
