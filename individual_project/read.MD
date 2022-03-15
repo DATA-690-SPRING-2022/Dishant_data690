@@ -1,8 +1,8 @@
-# Dishant Fapot
-
-
 ## TOPIC
 #### Economic Growth Effect on Health and Education
+
+Development of a country is decided by various factors and GDP per capita, Health and Education are big factors to decide development of a country. In this project I will  try to explore if economic growth affects the life expectency, health and education of the citizens of a country. Here I will use www.worlddev.xyz to make conclusion on the topic. Here I have selected few major developing countris around the world.
+
 
 ## PARAMETERS
 ### INDICATORS:
@@ -36,7 +36,40 @@
 - 2009 - 2021
 
 ## POINTS 
-To understand the relation between economic growth, health and education we will be using www.worlddev.xyz.  
+To understand the relation between economic growth, health and education we will be using www.worlddev.xyz. 
+### Econic Growth and Health
+![This is an image](https://github.com/DISHANTJOSHI1/dishant_data690/blob/092bd28eac54caa3e1835e30a35ed9637eb20b03/individual_project/gdpCpta.png)
+Above graph shows GDP per capita. Russia has highest per capita income out of the all selected counties followed by China. Whereas countires like India, Bangladesh and pakistan have low GDP per capita. We will try to examine if this affects health of the population of respective country in any way. 
+
+
+
+![](https://github.com/DISHANTJOSHI1/dishant_data690/blob/092bd28eac54caa3e1835e30a35ed9637eb20b03/individual_project/manufecturingAddede.png)
+Manufacturing is a huge deal when it comes to development. we will just see how manufecturing industries performed in the year 2019 of different countries.
+
+
+![](https://github.com/DISHANTJOSHI1/dishant_data690/blob/092bd28eac54caa3e1835e30a35ed9637eb20b03/individual_project/deathCausePie.png)
+Russia and China which have high GDP also have high death by non communal diseases with overall 15.3% percentage each when compare to other given countries. Inda, Pakistan and South Africa have lowest death by non communicable diseases.
+
+![](https://github.com/DISHANTJOSHI1/dishant_data690/blob/092bd28eac54caa3e1835e30a35ed9637eb20b03/individual_project/lifeExpectancyTrend.png)
+Above trand shows Life expectancy at birth which means  the overall mortality level of a population. It briefs the mortality pattern that prevails across all age groups - children and adolescents, adults and the elderly. From our plot we see china has highest life expectency and least for South africa. Here we can conclude if gdp per capita is more life expectency can increase as people can more easily can afford health services. In previous graph results where non communal disease deaths were high in china and russia might be in high age group people (75+ age).
+
+### Economic Growth and Education
+
+![](https://github.com/DISHANTJOSHI1/dishant_data690/blob/092bd28eac54caa3e1835e30a35ed9637eb20b03/individual_project/schoolEnrolBar.png)
+We see that in China percentage of enrollment in prepimary private education institute is high. Whereas Vietnam has lowest. In India it is moderate nut getting better with government introducing new educational policies like free education for underprivilaged children. 
+
+![](https://github.com/DISHANTJOSHI1/dishant_data690/blob/092bd28eac54caa3e1835e30a35ed9637eb20b03/individual_project/researchExpanditure.png)
+The progress of a country's research abilities shows how powerful that country is. Governments around the glob spend huge chunk of money on research and development. More patents approval, shows education level of it's citizen. To promote this governments announce part of their GDP towards research and development.From the above trend over the years China has amazed us by the spending on research and hence the development that took in the country is outstanding. To conclude Economic Growth indeed affects country's health and education sectors.  
+
+
+
+
+
+
+
+
+
+
 
 
 
