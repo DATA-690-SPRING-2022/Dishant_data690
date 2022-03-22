@@ -64,17 +64,9 @@ Above trand shows Life expectancy at birth which means  the overall mortality le
 We see that in China percentage of enrollment in prepimary private education institute is high. Whereas Vietnam has lowest. In India it is moderate nut getting better with government introducing new educational policies like free education for underprivilaged children. 
 
 ![](https://github.com/DISHANTJOSHI1/dishant_data690/blob/2dcd8e5f61b95d5d2452607558b988a408b995b6/world_Development_Explorer/researchExpanditure.png)
-The progress of a country's research abilities shows how powerful that country is. Governments around the glob spend huge chunk of money on research and development. More patents approval, shows education level of it's citizen. To promote this governments announce part of their GDP towards research and development.From the above trend over the years China has amazed us by the spending on research and hence the development that took in the country is outstanding. To conclude Economic Growth indeed affects country's health and education sectors.  
+The progress of a country's research abilities shows how powerful that country is. Governments around the glob spend huge chunk of money on research and development. More patents approval, shows education level of it's citizen. To promote this governments announce part of their GDP towards research and development.From the above trend over the years China has amazed us by the spending on research and hence the development that took in the country is outstanding. 
 
-
-
-
-
-
-
-
-
-
-
-
-
+### Suicide and GDP Percapita Correlation
+![](https://github.com/DISHANTJOSHI1/dishant_data690/blob/4c8b2236ce116a10badbd7bad7c9455c8c12f32b/world_Development_Explorer/suc&gdp2.png)
+In many countries across the world, suicide has become a major public health concern. Economic development does not guarentee a decrease in suicide rates. In fact more with increase in wealth people are becoming more mentally stressed due to work load they face to make the wealth. From the above graph, which shows suicide mortalty rate vesus GDP per capita, we see there is an upward relation between the two components, which proves money is not an indicator of good mental health. 
+  
