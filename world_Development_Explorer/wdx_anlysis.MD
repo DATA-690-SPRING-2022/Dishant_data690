@@ -68,7 +68,5 @@ The progress of a country's research abilities shows how powerful that country i
 
 ### Suicide and GDP Percapita Correlation
 ![](https://github.com/DISHANTJOSHI1/dishant_data690/blob/4c8b2236ce116a10badbd7bad7c9455c8c12f32b/world_Development_Explorer/suc&gdp2.png)
-
-
-
-To conclude Economic Growth indeed affects country's health and education sectors.  
+In many countries across the world, suicide has become a major public health concern. Economic development does not guarentee a decrease in suicide rates. In fact more with increase in wealth people are becoming more mentally stressed due to work load they face to make the wealth. From the above graph, which shows suicide mortalty rate vesus GDP per capita, we see there is an upward relation between the two components, which proves money is not an indicator of good mental health. 
+  
