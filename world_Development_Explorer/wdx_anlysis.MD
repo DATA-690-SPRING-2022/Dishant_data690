@@ -65,16 +65,3 @@ We see that in China percentage of enrollment in prepimary private education ins
 
 ![](https://github.com/DISHANTJOSHI1/dishant_data690/blob/2dcd8e5f61b95d5d2452607558b988a408b995b6/world_Development_Explorer/researchExpanditure.png)
 The progress of a country's research abilities shows how powerful that country is. Governments around the glob spend huge chunk of money on research and development. More patents approval, shows education level of it's citizen. To promote this governments announce part of their GDP towards research and development.From the above trend over the years China has amazed us by the spending on research and hence the development that took in the country is outstanding. To conclude Economic Growth indeed affects country's health and education sectors.  
-
-
-
-
-
-
-
-
-
-
-
-
-
